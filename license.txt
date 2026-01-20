@@ -1,0 +1,43 @@
+End User License Agreement (EULA)
+
+Last updated: 25.1.2026
+
+Barebone Client (“Software”) is licensed, not sold.
+
+1. Grant of License
+
+You are granted a limited, non-exclusive, non-transferable, revocable license to download, install, and use the Software for personal or internal purposes only.
+
+2. Restrictions
+
+You may not:
+
+Copy, reproduce, modify, or create derivative works of the Software
+
+Distribute, publish, sublicense, sell, lease, rent, or share the Software or any part of it
+
+Reverse engineer, decompile, or disassemble the Software, except where prohibited by law
+
+Use the Software for commercial redistribution or hosting
+
+3. Ownership
+
+All rights, title, and interest in the Software remain the exclusive property of the author. No ownership rights are transferred under this license.
+
+4. Termination
+
+This license terminates automatically if you violate any of its terms. Upon termination, you must cease all use and delete all copies of the Software.
+
+5. No Warranty
+
+The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose or non-infringement.
+
+6. Limitation of Liability
+
+In no event shall the author be liable for any damages arising out of or related to the use or inability to use the Software.
+
+7. Governing Law
+
+This Agreement shall be governed by the laws of the Czech Republic.
+
+By using the Software, you agree to be bound by this Agreement.
